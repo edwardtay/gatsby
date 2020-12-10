@@ -1,4 +1,11 @@
 ---
 label: '1'
 hide_body: true
-fields: []
+fields:
+- name: '11'
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: '1'
